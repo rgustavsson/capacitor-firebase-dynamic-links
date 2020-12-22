@@ -1,5 +1,5 @@
 {
-  "name": "@clipboardhealth/capacitor-firebase-dynamic-links",
+  "name": "capacitor-dynamic-links",
   "version": "0.0.1",
   "description": "Capacitor Plugin for Firebase Dynamic Links",
   "main": "dist/esm/index.js",
@@ -10,7 +10,7 @@
     "watch": "tsc --watch",
     "prepublishOnly": "npm run build"
   },
-  "author": "Bharani",
+  "author": "Joshuva",
   "license": "MIT",
   "dependencies": {
     "@capacitor/core": "latest"
