@@ -8,7 +8,7 @@ Capacitor plugin for [Firebase Dynamic Links](https://firebase.google.com/docs/d
 ## Installation
 
 ```
-npm i @clipboardhealth/capacitor-firebase-dynamic-links
+npm i -S capacitor-dynamic-links
 ```
 
 ### Android Configuration
@@ -18,7 +18,7 @@ In file `android/app/src/main/java/**/**/MainActivity.java`, add the plugin to t
 ```
 this.init(savedInstanceState, new ArrayList<Class<? extends Plugin>>() {{
   [...]
-  add(health.clipboard.links.dynamic.firebase.capacitor.CapacitorFirebaseDynamicLinks.class);
+  add(joshuva.links.dynamic.firebase.capacitor.CapacitorFirebaseDynamicLinks.class);
   [...]
 }});
 ```
