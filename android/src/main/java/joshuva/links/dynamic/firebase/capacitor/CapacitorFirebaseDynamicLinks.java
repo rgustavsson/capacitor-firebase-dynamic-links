@@ -1,4 +1,4 @@
-package health.clipboard.links.dynamic.firebase.capacitor;
+package joshuva.links.dynamic.firebase.capacitor;
 
 import android.content.Intent;
 import android.net.Uri;
