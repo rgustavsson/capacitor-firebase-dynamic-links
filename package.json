@@ -23,8 +23,7 @@
   "files": [
     "dist/",
     "ios/",
-    "android/",
-    "clipboardhealthCapacitorFirebaseDynamicLinks.podspec"
+    "android/"
   ],
   "keywords": [
     "capacitor",
