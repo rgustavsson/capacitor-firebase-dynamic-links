@@ -8,7 +8,7 @@ typealias JSObject = [String:Any]
 @objc(CapacitorDynamicLinks)
 public class CapacitorDynamicLinks: CAPPlugin {
     
-    public override func load() {
+    @objc override public func load() {
         if (FirebaseApp.app() == nil) {
             FirebaseApp.configure()
         }
