@@ -6,7 +6,7 @@ import FirebaseDynamicLinks
 typealias JSObject = [String:Any]
 
 @objc(CapacitorDynamicLinks)
-public class CapacitorFirebaseDynamicLinks: CAPPlugin {
+public class CapacitorDynamicLinks: CAPPlugin {
     
     public override func load() {
         if (FirebaseApp.app() == nil) {
