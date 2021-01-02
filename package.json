@@ -25,7 +25,8 @@
   "files": [
     "dist/",
     "ios/",
-    "android/"
+    "android/",
+    "CapFirebaseDynamicLinks.podspec"
   ],
   "keywords": [
     "capacitor",
