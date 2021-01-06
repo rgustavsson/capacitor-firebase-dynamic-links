@@ -1,5 +1,5 @@
 
   <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="joshuva.links.dynamic.firebase.capacitor.capacitorfirebasedynamiclinks">
+      package="joshuva.links.dynamic.firebase.capacitor.capacitordynamiclinks">
   </manifest>
   

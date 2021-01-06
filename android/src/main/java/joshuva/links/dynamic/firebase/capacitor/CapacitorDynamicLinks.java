@@ -19,7 +19,7 @@ import androidx.annotation.NonNull;
 import static android.content.ContentValues.TAG;
 
 @NativePlugin()
-public class CapacitorFirebaseDynamicLinks extends Plugin {
+public class CapacitorDynamicLinks extends Plugin {
 
     private static final String EVENT_DEEP_LINK = "deepLinkOpen";
 
