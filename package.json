@@ -1,6 +1,6 @@
 {
   "name": "capacitor-dynamic-links",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "Capacitor Plugin for Firebase Dynamic Links",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
