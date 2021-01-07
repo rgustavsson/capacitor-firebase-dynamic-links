@@ -10,6 +10,7 @@ end
 target 'Plugin' do
   pod 'Firebase/Analytics'
   pod 'Firebase/DynamicLinks'
+  
   capacitor_pods
 end
 
